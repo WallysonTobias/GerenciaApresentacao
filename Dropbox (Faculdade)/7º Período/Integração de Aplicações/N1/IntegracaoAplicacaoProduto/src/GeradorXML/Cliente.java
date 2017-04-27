@@ -9,10 +9,6 @@ import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author iDieGo
- */
 public class Cliente {
 
     public void Client() {
