@@ -41,12 +41,12 @@ public class EncriptaDecriptaRC4Test {
      */
     @Test
     public void testDecriptografa() {
-        System.out.println("decriptografa");
-        char[] msg = null;
-        EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
-        char[] expResult = null;
-        char[] result = instance.decriptografa(msg);
-        assertArrayEquals(expResult, result);
+        //System.out.println("decriptografa");
+        //char[] msg = null;
+        //EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
+        //char[] expResult = null;
+        //char[] result = instance.decriptografa(msg);
+        //assertArrayEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
@@ -56,12 +56,12 @@ public class EncriptaDecriptaRC4Test {
      */
     @Test
     public void testCriptografa() {
-        System.out.println("criptografa");
-        char[] msg = null;
-        EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
-        char[] expResult = null;
-        char[] result = instance.criptografa(msg);
-        assertArrayEquals(expResult, result);
+//        System.out.println("criptografa");
+//        char[] msg = null;
+//        EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
+//        char[] expResult = null;
+//        char[] result = instance.criptografa(msg);
+//        assertArrayEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
@@ -71,10 +71,10 @@ public class EncriptaDecriptaRC4Test {
      */
     @Test
     public void testSetKey() throws Exception {
-        System.out.println("setKey");
-        String key = "";
-        EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
-        instance.setKey(key);
+//        System.out.println("setKey");
+//        String key = "";
+//        EncriptaDecriptaRC4 instance = new EncriptaDecriptaRC4();
+//        instance.setKey(key);
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
